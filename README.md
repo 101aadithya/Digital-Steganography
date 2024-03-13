@@ -28,7 +28,7 @@ decode.h  :   Contains function and structre declerations required for decoding 
 decode.c  :   Contains functions definitions for carrying out decoding process.  
 common.h  :   Contains the magic string as macro to check if the file is encoded or not.
 
-beautiful.bmp  : Additional sample bmp file.
-secret.txt     : Additional sample text file containing the secret message to be encoded.
+beautiful.bmp  : Additional sample bmp file.  
+secret.txt     : Additional sample text file containing the secret message to be encoded.  
 
   *******************************************
